@@ -1,0 +1,52 @@
+body{
+    background: linear-gradient(to right, #e0f7fa, #e1bee7);
+}
+
+.img{
+    height: 120px;
+    width: 120px;
+    border-radius: 50%;
+    border: 3px solid #7e57c2;
+}
+
+.color{
+    color: #4a148c;
+    font-size: 18px;
+}
+
+.color-list{
+    color: #a889cf;
+}
+
+.card{
+    text-align: center;
+    width: 38%;
+    margin: 3.5% auto;
+    background-color: white;
+    padding: 30px;
+    border-radius: 12px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+ul{
+    list-style-type: none;
+    text-align: left;
+    padding-left: 0;
+}
+
+.social-icons {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.icon {
+  border-radius: 50%;
+  text-decoration: none;
+  display: flex;
+  flex-direction: column;  /* Stack icon and text vertically */
+}
+
+
+
+
